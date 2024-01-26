@@ -1,0 +1,17 @@
+table{
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+body{
+    background-image: url("https://www.modernhoney.com/wp-content/uploads/2022/08/Milk-Chocolate-Chip-Cookies-22-scaled.jpg"); /**/
+   
+    background-position:; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
